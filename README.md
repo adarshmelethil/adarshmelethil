@@ -35,7 +35,7 @@ of which I was not a fan.
 
 ## How to reach me
 
-The best place to reach me is on [discord](https://discord.gg/XNBGUy) as `🐮Madcowken🐮#2845`
+The best place to reach me is on [discord](https://discord.gg/XNBGUy) as `Madcowken#2845`
 
 <!--
 Here are some ideas to get you started:
