@@ -17,13 +17,8 @@ What I am most *passionate* about is
 [Artificial General Intelligence](https://imgs.xkcd.com/comics/skynet.png)(AGI); 
 the pursuit of trying to replicate human-like behavior in computers. 
 This is my lifelong goal. 
-As of late (August 2nd, 2020), I  haven't been as productive as 
-I'd like to be in this regard. 
-Motivation has been severely lacking, due in part to just 
-finishing University where they had a ridiculously strong 
-emphasis on modern 
-<strike>[object-oriented programming](https://www.youtube.com/watch?v=QM1iUe6IofM&feature=emb_title)</strike>,
-of which I was not a fan. 
+
+Feel free to reach out if you'd like my help with an open source project!
 
 ## Currently learning
 
